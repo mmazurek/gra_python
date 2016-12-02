@@ -6,6 +6,8 @@ Gra została stworzona jako praca domowa na zajęcia PADPy na wydziale MiNi na P
 
 ## Instrukcja
 
+Aby uruchomić grę należy ściągnąć repozytorium i w konsoli wywołać `python pong_game.py` w katalogu, w którym znajduje się gra.
+
 Po uruchomieniu gry mamy nastepujący wybór:
 
 * jeden gracz
@@ -17,7 +19,7 @@ Jeśli chcemy wyjść z gry możemy użyć przycisku `Esc` bądż zamknąć grę
 W grze jednoosobowej poruszamy się paletką po prawej stronie przy pomocy strzałek z klawiatury. Natomiast w grze dla dwóch graczy, gracz po lewej stronie porusza się przyciskami `WSAD`, a gracz po prawej strzałkami. 
 Podczas gry możemy użyć przycisku `M` aby wrócić do menu.
 
-*After opening the game you can choose `One player` or `Two players`. You can choose one of those options using mouse or by pressing `1` or `2` button. If you want to quit, you can use `Esc` button or just close the window.
+*To open the game download this repository and type in console `python pong_game.py` in catalog where you downloaded repository. After opening the game you can choose `One player` or `Two players`. You can choose one of those options using mouse or by pressing `1` or `2` button. If you want to quit, you can use `Esc` button or just close the window.
 If you choose game for one player, you will play right paddle. To move it use arrow buttons. If you choose two players, the right paddle will be controlled by arrow buttons and the left paddle by `WSAD` buttons. You can return to the game menu by pressing `M` buttons.*
 
 ## Źródła i licencje
