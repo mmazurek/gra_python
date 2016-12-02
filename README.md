@@ -18,7 +18,6 @@ W grze jednoosobowej poruszamy się paletką po prawej stronie przy pomocy strza
 Podczas gry możemy użyć przycisku `M` aby wrócić do menu.
 
 *After opening the game you can choose `One player` or `Two players`. You can choose one of those options using mouse or by pressing `1` or `2` button. If you want to quit, you can use `Esc` button or just close the window.
-
 If you choose game for one player, you will play right paddle. To move it use arrow buttons. If you choose two players, the right paddle will be controlled by arrow buttons and the left paddle by `WSAD` buttons. You can return to the game menu by pressing `M` buttons.*
 
 ## Źródła i licencje
